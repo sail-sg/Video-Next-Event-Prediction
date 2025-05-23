@@ -1,0 +1,2 @@
+cd LLaMA-Factory
+llamafactory-cli train examples/train_full/qwen2_5vl_7B_full_sft_5K.yaml
