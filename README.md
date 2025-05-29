@@ -182,11 +182,14 @@ We run all our evaluations based on the `lmms-eval`. Besides those benchmarks th
 If you find this repository useful, please cite our paper:
 
 ```bibtex
-@article{wang2024precision,
-  title={When Precision Meets Position: BFloat16 Breaks Down RoPE in Long-Context Training},
-  author={Wang, Haonan and Liu, Qian and Du, Chao and Zhu, Tongyao and Du, Cunxiao and Kawaguchi, Kenji and Pang, Tianyu},
-  journal={arXiv preprint arXiv:2411.13476},
-  year={2024}
+@misc{wang2025fosteringvideoreasoningnextevent,
+      title={Fostering Video Reasoning via Next-Event Prediction}, 
+      author={Haonan Wang and Hongfu Liu and Xiangyan Liu and Chao Du and Kenji Kawaguchi and Ye Wang and Tianyu Pang},
+      year={2025},
+      eprint={2505.22457},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2505.22457}, 
 }
 ```
 
