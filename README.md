@@ -25,7 +25,7 @@
 ---
 
 Welcome to the official repository for **Fostering Video Reasoning via Next-Event Prediction**! 🚀  
-Read our paper on arXiv: [📖 2411.13476](https://arxiv.org/pdf/2411.13476)  
+Read our paper on arXiv: [📖 2505.22457](https://arxiv.org/abs/2505.22457)  
 Browse the dataset on Hugging Face: [📂 V1-33K](https://huggingface.co/datasets/haonan3/V1-33K)
 
 
